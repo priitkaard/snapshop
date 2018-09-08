@@ -1,6 +1,9 @@
 SnapShop
 ========
 
+PS! Current project is deprecated (lot's of stuff could be improved, uses deprecated Camera API to support old devices etc...) 
+Used backend is rewritten to microservices architecture.
+
 Snapchatist inspiratsiooni saanud osta-müü-vaheta keskkond (peamiselt eraisikutele).
 Kasutajal on väga lihtne lisada uusi tooteid - Teeb otse appist pildi, lisab pealkirja, kirjelduse, hinna ning ongi valmis.
 Postitused aeguvad teatud aja jooksul, kuid neid on võimalik uuendada.
